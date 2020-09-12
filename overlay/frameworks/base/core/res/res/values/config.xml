@@ -88,9 +88,7 @@
         <item>4000</item>
         <item>80000</item>
     </integer-array>
-<<<<<<< HEAD
-=======
- 
+
     <!-- List of regexpressions describing the interface (if any) that represent tetherable
          USB interfaces.  If the device doesn't want to support tething over USB this should
          be empty.  An example would be "usb.*" -->   
@@ -298,7 +296,6 @@
 
     <!-- Whether device has a physical display cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
->>>>>>> 8491914... RMX1921: overlay: Set wakeup doze delay
 
     <!-- Array of output values for LCD backlight corresponding to the lux values
          in the config_autoBrightnessLevels array.  This array should have size one greater
